@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.lec.ex.varEx04.java&apos; to &apos;VarEx04.java&apos;&#x0D;&#x0A;- Original project: &apos;ch02_variable&apos;&#x0D;&#x0A;- Original element: &apos;com.lec.ex.varEx04.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lec.ex.VarEx04.java&apos;" description="Rename compilation unit &apos;varEx04.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.lec.ex{varEx04.java" name="VarEx04.java" references="false" stamp="1724806413397" version="1.0"/>
+</session>

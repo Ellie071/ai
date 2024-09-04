@@ -1,0 +1,10 @@
+package com.lec.ex4_product;
+// new product("S22")
+public class Product {
+	private String mode1No; //모델명
+	private int serialNo; // 객체 교유의 번호
+	private static int count = 100; //
+	public Product(String mode1No) {
+		this.mode1No = mode1No;
+	}
+}
